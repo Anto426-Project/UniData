@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-04-02T14:34:39.843653+00:00",
+  "generated_at_utc": "2026-04-02T15:04:32.395521+00:00",
   "timezone": "Europe/Rome",
   "source_count": 3,
   "item_count": 1598,
@@ -8217,20 +8217,20 @@
           "source_page": 9
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "La corsa delle",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "06:50"
           ],
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "Piazza D'Ovidio",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "06:50",
             "08:20",
@@ -8249,10 +8249,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "Cavour",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "06:51",
             "08:21",
@@ -8271,10 +8271,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "Stazione FS",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "06:52",
             "08:22",
@@ -8293,10 +8293,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "Mazzini - San Giovanni",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "06:53",
             "08:23",
@@ -8315,10 +8315,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "San Giovanni",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "06:54",
             "08:24",
@@ -8337,10 +8337,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "San Giovanni - Famila 1",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "06:55",
             "08:25",
@@ -8359,10 +8359,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "Piazza Molise 1",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "06:56",
             "08:26",
@@ -8381,10 +8381,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "Via Puglia 1",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "06:56",
             "08:26",
@@ -8403,10 +8403,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "SS 645 1",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "06:57",
             "08:27",
@@ -8425,10 +8425,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "Centro Sportivo M2",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:01",
             "08:31",
@@ -8447,10 +8447,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "FV Tappino - Colle dell'Orso 1",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:02",
             "08:32",
@@ -8469,10 +8469,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "SS 645 3",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:04",
             "08:34",
@@ -8491,10 +8491,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "FV Tappino - Contrada Lupara 1",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:06",
             "08:36",
@@ -8513,10 +8513,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "Mascione",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:08",
             "08:38",
@@ -8535,10 +8535,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "Mascione - Total",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:09",
             "08:39",
@@ -8557,10 +8557,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "Battistini",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:10",
             "08:40",
@@ -8579,10 +8579,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "SP 165 - Tamoil",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:11",
             "08:41",
@@ -8601,10 +8601,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "SP 165 - Via S. Giovanni",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:12",
             "08:42",
@@ -8623,10 +8623,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "Cimitero",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:13",
             "08:43",
@@ -8645,10 +8645,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "San Pietro",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:14",
             "08:44",
@@ -8667,10 +8667,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "Parcheggio Terminal",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:16",
             "08:46",
@@ -8689,10 +8689,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "Arsarp",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:17",
             "08:47",
@@ -8711,10 +8711,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "Gazzani",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:18",
             "08:48",
@@ -8733,10 +8733,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "Cavour",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:20",
             "08:50",
@@ -8755,10 +8755,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "Piazza Cuoco",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:21",
             "08:51",
@@ -8777,10 +8777,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "V.Veneto",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:22",
             "08:52",
@@ -8799,10 +8799,10 @@
           "source_page": 10
         },
         {
-          "line": "Linea 6 - Circolare Mascione - Lun- Sab",
+          "line": "Linea 6 - Circolare Mascione",
           "stop": "Piazza D'Ovidio",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:23",
             "08:53",
@@ -13465,10 +13465,10 @@
           "source_page": 17
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Terminal",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:20",
             "07:45",
@@ -13490,10 +13490,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Cardarelli",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:33",
             "07:55",
@@ -13515,10 +13515,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Cattolica",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:35",
             "07:57",
@@ -13540,10 +13540,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Terminal",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:45",
             "08:07",
@@ -13565,10 +13565,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Piazza Pepe",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:10",
             "08:55",
@@ -13584,10 +13584,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Via Pietrunto",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:11",
             "08:56",
@@ -13603,10 +13603,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Via Roma",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:12",
             "08:57",
@@ -13622,10 +13622,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Via Milano",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:13",
             "08:58",
@@ -13641,10 +13641,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Via Monforte",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:14",
             "08:59",
@@ -13660,10 +13660,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Piazza Venezia",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:16",
             "09:00",
@@ -13679,10 +13679,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Via Venezia",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:17",
             "09:01",
@@ -13698,10 +13698,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "S.Antonio Abate",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:18",
             "09:02",
@@ -13717,10 +13717,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Fontana Vecchia",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:20",
             "09:04",
@@ -13736,10 +13736,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Macchie 1",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:21",
             "09:06",
@@ -13755,10 +13755,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Macchie 2",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:21",
             "09:07",
@@ -13774,10 +13774,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Macchie 3",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:22",
             "09:08",
@@ -13793,10 +13793,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Macchie 4",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:22",
             "09:09",
@@ -13812,10 +13812,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Macchie - Colle Leone 1",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:22",
             "09:10",
@@ -13831,10 +13831,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Macchie Nord",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:23",
             "09:11",
@@ -13850,10 +13850,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Macchie 5",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:23",
             "09:12",
@@ -13869,10 +13869,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Macchie - Peugeut",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:23",
             "09:13",
@@ -13888,10 +13888,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Macchie - Calvario",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:24",
             "09:15",
@@ -13907,10 +13907,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Macchie - MITER",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:26",
             "09:16",
@@ -13926,10 +13926,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Macchie - Facchinetti",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:27",
             "09:17",
@@ -13945,10 +13945,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Fontana Vecchia - Garibaldi 2",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:26",
             "09:18",
@@ -13964,10 +13964,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Garibaldi - Liceo",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:27",
             "09:19",
@@ -13983,10 +13983,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Piazzale Palatucci",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:27",
             "09:20",
@@ -14002,10 +14002,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Via Tiberio - Questura",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:28",
             "09:22",
@@ -14021,10 +14021,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Via Tiberio - San Lorenzo",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:29",
             "09:23",
@@ -14040,10 +14040,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Via Tiberio - Via Fede",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:30",
             "09:24",
@@ -14059,10 +14059,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Via D'Amato",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:31",
             "09:26",
@@ -14078,10 +14078,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Insorti D'Ungheria",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:32",
             "09:27",
@@ -14097,10 +14097,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Via Colitto",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:33",
             "09:28",
@@ -14116,10 +14116,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Caserma CC",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:34",
             "09:29",
@@ -14135,10 +14135,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Piazza Pepe",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "07:35",
             "09:30",
@@ -14154,10 +14154,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Piazza Pepe",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:00",
             "11:00",
@@ -14168,10 +14168,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Via Pietrunto",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:01",
             "11:01",
@@ -14182,10 +14182,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Via Roma",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:02",
             "11:02",
@@ -14196,10 +14196,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Via Milano",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:03",
             "11:03",
@@ -14210,10 +14210,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Via Monforte",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:04",
             "11:04",
@@ -14224,10 +14224,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Piazza Venezia",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:05",
             "11:05",
@@ -14238,10 +14238,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Via Venezia",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:06",
             "11:06",
@@ -14252,10 +14252,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "S.Antonio Abate",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:07",
             "11:07",
@@ -14266,10 +14266,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Fontana Vecchia",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:09",
             "11:09",
@@ -14280,10 +14280,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Macchie 1",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:11",
             "11:11",
@@ -14294,10 +14294,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Macchie 2",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:12",
             "11:12",
@@ -14308,10 +14308,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Macchie 3",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:13",
             "11:13",
@@ -14322,10 +14322,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Macchie 4",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:14",
             "11:14",
@@ -14336,10 +14336,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Macchie - Colle Leone 1",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:15",
             "11:15",
@@ -14350,10 +14350,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Macchie Nord",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:16",
             "11:16",
@@ -14364,10 +14364,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Macchie 5",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:17",
             "11:17",
@@ -14378,10 +14378,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Macchie - Peugeut",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:18",
             "11:18",
@@ -14392,10 +14392,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Macchie - Calvario",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:20",
             "11:20",
@@ -14406,10 +14406,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Macchie - MITER",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:21",
             "11:21",
@@ -14420,10 +14420,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Macchie - Facchinetti",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:22",
             "11:22",
@@ -14434,10 +14434,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Fontana Vecchia - Garibaldi 2",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:23",
             "11:23",
@@ -14448,10 +14448,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Garibaldi - Liceo",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:24",
             "11:24",
@@ -14462,10 +14462,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Piazzale Petalucci",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:25",
             "11:25",
@@ -14476,10 +14476,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Via Tiberio - Questura",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:27",
             "11:27",
@@ -14490,10 +14490,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Via Tiberio - San Lorenzo",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:28",
             "11:28",
@@ -14504,10 +14504,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Via Tiberio - Via Fede",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:29",
             "11:29",
@@ -14518,10 +14518,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Via D'Amato",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:31",
             "11:31",
@@ -14532,10 +14532,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Insorti D'Ungheria",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:32",
             "11:32",
@@ -14546,10 +14546,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Via Colitto",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:33",
             "11:33",
@@ -14560,10 +14560,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Caserma CC",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:34",
             "11:34",
@@ -14574,10 +14574,10 @@
           "source_page": 18
         },
         {
-          "line": "Linea 9 - Circolare Terminal - Ospedale - Lun- Sab",
+          "line": "Linea 9 - Circolare Terminal - Ospedale",
           "stop": "Piazza Pepe",
           "city": "Campobasso",
-          "service_type": "regular",
+          "service_type": "weekday",
           "departures": [
             "09:35",
             "11:35",
@@ -18297,7 +18297,7 @@
           "source_page": 22
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Liceo Scientifico 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18307,7 +18307,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazzale Petalucci",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18317,7 +18317,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Tiberio - Questura",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18327,7 +18327,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Tiberio - San Lorenzo",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18337,7 +18337,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Sant'Antonio dei Lazzari - Via Normanno",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18347,7 +18347,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Sant'Antonio dei Lazzari - Ministero Interno",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18357,7 +18357,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Sant'Antonio dei Lazzari",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18367,7 +18367,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Tiro a Segno 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18377,7 +18377,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "24 Maggio - Einaudi 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18387,7 +18387,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "24 Maggio - Piave 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18397,7 +18397,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "24 Maggio 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18407,7 +18407,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Mazzini - San Giovanni",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18417,7 +18417,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "San Giovanni",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18427,7 +18427,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "San Giovanni - Famila 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18437,7 +18437,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "San Giovanni - Jovine 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18447,7 +18447,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Friuli Venezia Giulia",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18457,7 +18457,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Lombardia - Via Emilia",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18467,7 +18467,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Pirandello 3",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18477,7 +18477,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Pirandello - Alfieri",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18487,7 +18487,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Leopardi",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18497,7 +18497,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Kennedy",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18507,7 +18507,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Sant'Antonio",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18517,7 +18517,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza Falcone e Borsellino",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18527,7 +18527,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Trivisonno",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18537,7 +18537,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cavour",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18547,7 +18547,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Stazione FS - V.Veneto",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18557,7 +18557,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Vittorio Veneto",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18567,7 +18567,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza D'Ovidio",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18577,7 +18577,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza Pepe",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18587,7 +18587,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Pietrunto",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18597,7 +18597,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Roma",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18607,7 +18607,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza della Vittoria",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18617,7 +18617,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza Falcone Borsellino",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18627,7 +18627,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Trivisonno",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18637,7 +18637,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Manzoni Parco 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18647,7 +18647,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Pirandello 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18657,7 +18657,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Ungaretti",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18667,7 +18667,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Pirandello - Lombardia",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18677,7 +18677,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Rotonda Lombardia",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18687,7 +18687,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Scardocchia",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18697,7 +18697,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Liceo Classico",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18707,7 +18707,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Manzoni Parcheggio",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18717,7 +18717,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Romagnoli",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18727,7 +18727,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cavour",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18737,7 +18737,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Stazione FS",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18747,7 +18747,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Garibaldi",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18757,7 +18757,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Garibaldi - San Lorenzo",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18767,7 +18767,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Palatucci",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18777,7 +18777,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Liceo Scientifico 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18787,7 +18787,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Facchinetti",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18797,7 +18797,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Fontana Vecchia - Garibaldi 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18807,7 +18807,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Garibaldi - Liceo",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18817,7 +18817,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazzale Petalucci",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18827,7 +18827,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Tiberio - Questura",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18837,7 +18837,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Tiberio - San Lorenzo",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18847,7 +18847,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Tiberio - Via Fede",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18857,7 +18857,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via D'Amato",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18867,7 +18867,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Insorti D'Ungheria",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18877,7 +18877,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Colitto",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18887,7 +18887,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Caserma CC",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18897,7 +18897,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza Pepe",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18907,7 +18907,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Stazione FS",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18917,7 +18917,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Garibaldi",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18927,7 +18927,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Mazzini - San Giovanni",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18937,7 +18937,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "San Giovanni",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18947,7 +18947,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "San Giovanni - Famila 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18957,7 +18957,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza Molise 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18967,7 +18967,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Puglia 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18977,7 +18977,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Campania",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18987,7 +18987,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Campania - Via Sardegna",
           "city": "Campobasso",
           "service_type": "regular",
@@ -18997,7 +18997,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Campania - San Giovanni dei Gelsi 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19007,7 +19007,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "San Giovanni dei Gelsi 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19017,7 +19017,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "San Giovanni dei Gelsi 3",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19027,7 +19027,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Contrada Lupara",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19037,7 +19037,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "FV Tappino - Contrada Lupara 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19047,7 +19047,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "SS 645 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19057,7 +19057,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "FV Tappino - Colle dell'Orso 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19067,7 +19067,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "SS 645 4",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19077,7 +19077,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Puglia - Via Sicilia 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19087,7 +19087,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Puglia 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19097,7 +19097,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza Molise 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19107,7 +19107,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "San Giovanni - Famila 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19117,7 +19117,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "S. Francesco",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19127,7 +19127,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "24 Maggio 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19137,7 +19137,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "24 Maggio Piave 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19147,7 +19147,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "24 Maggio Parco 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19157,7 +19157,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Scarano",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19167,7 +19167,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Bendetto Croce",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19177,7 +19177,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "24 Maggio - Piave 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19187,7 +19187,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "24 Maggio 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19197,7 +19197,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Colitto",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19207,7 +19207,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Caserma CC",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19217,7 +19217,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza Pepe",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19227,7 +19227,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Pietrunto",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19237,7 +19237,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Roma",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19247,7 +19247,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Milano",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19257,7 +19257,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Monforte",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19267,7 +19267,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "S.Antonio Abate",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19277,7 +19277,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Fontana Vecchia",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19287,7 +19287,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Fontana Vecchia - Garibaldi 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19297,7 +19297,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Fontana Vecchia - Garibaldi 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19307,7 +19307,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Liceo Scientifico 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19317,7 +19317,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "SC Campobasso Busso 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19327,7 +19327,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Terminal",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19337,7 +19337,7 @@
           "source_page": 23
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Terminal",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19351,7 +19351,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Scardocchia (polo liceale)",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19365,7 +19365,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Manzoni Farmacia",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19379,7 +19379,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Pirandello 3",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19393,7 +19393,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Terminal",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19407,7 +19407,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza D'Ovidio",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19417,7 +19417,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cavour",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19427,7 +19427,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Stazione FS",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19437,7 +19437,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Garibaldi",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19447,7 +19447,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Mazzini - San Giovanni",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19457,7 +19457,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "San Giovanni",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19467,7 +19467,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "San Giovanni - Famila 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19477,7 +19477,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza Molise 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19487,7 +19487,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Puglia 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19497,7 +19497,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Puglia - Via Sicilia 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19507,7 +19507,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "SS 645 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19517,7 +19517,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Centro Sportivo M2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19527,7 +19527,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "FV Tappino - Colle dell'Orso 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19537,7 +19537,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "SS 645 3",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19547,7 +19547,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "FV Tappino - Contrada Lupara 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19557,7 +19557,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "FV Tappino 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19567,7 +19567,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Mascione - FV Tappino",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19577,7 +19577,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Mascione 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19587,7 +19587,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Mascione - Total 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19597,7 +19597,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Battistini 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19607,7 +19607,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Il ritrovo",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19617,7 +19617,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "SP 165 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19627,7 +19627,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "SP 165 - Tamoil",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19637,7 +19637,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "SP 165 4",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19647,7 +19647,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "SP 165 - Via S. Giovanni",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19657,7 +19657,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cimitero",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19667,7 +19667,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via San Giovanni - Via Lombardia 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19677,7 +19677,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "San Giovanni - Jovine 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19687,7 +19687,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "San Pietro",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19697,7 +19697,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "San Giovanni - Famila 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19707,7 +19707,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "24 magio",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19717,7 +19717,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "colle delle api",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19727,7 +19727,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "montini",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19737,7 +19737,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "XXIV Maggio",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19747,7 +19747,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "XXV Aprile",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19757,7 +19757,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "colitto",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19767,7 +19767,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza D'Ovidio",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19777,7 +19777,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza D'Ovidio",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19787,7 +19787,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cavour",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19797,7 +19797,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Stazione FS",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19807,7 +19807,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Garibaldi",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19817,7 +19817,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "24 maggio",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19827,7 +19827,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "montini",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19837,7 +19837,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "24 maggio",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19847,7 +19847,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "25aprile",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19857,7 +19857,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "colitto",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19867,7 +19867,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Mazzini - San Giovanni",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19877,7 +19877,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "San Giovanni",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19887,7 +19887,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "San Giovanni - Famila 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19897,7 +19897,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza Molise 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19907,7 +19907,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Puglia 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19917,7 +19917,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Puglia - Via Sicilia 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19927,7 +19927,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "SS 645 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19937,7 +19937,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Centro Sportivo M2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19947,7 +19947,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "FV Tappino - Colle dell'Orso 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19957,7 +19957,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "SS 645 3",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19967,7 +19967,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "FV Tappino - Contrada Lupara 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19977,7 +19977,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "FV Tappino 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19987,7 +19987,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Mascione - FV Tappino",
           "city": "Campobasso",
           "service_type": "regular",
@@ -19997,7 +19997,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Mascione 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20007,7 +20007,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Mascione - Total 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20017,7 +20017,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Battistini 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20027,7 +20027,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Il ritrovo",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20037,7 +20037,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "SP 165 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20047,7 +20047,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "SP 165 - Tamoil",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20057,7 +20057,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "SP 165 4",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20067,7 +20067,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "SP 165 - Via S. Giovanni",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20077,7 +20077,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cimitero",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20087,7 +20087,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via San Giovanni - Via Lombardia 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20097,7 +20097,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "San Giovanni - Jovine 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20107,7 +20107,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "San Pietro",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20117,7 +20117,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "San Giovanni - Famila 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20127,7 +20127,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Parcheggio Terminal",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20137,7 +20137,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Arsarp",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20147,7 +20147,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Vico",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20157,7 +20157,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via dei Novelli",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20167,7 +20167,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Gazzani",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20177,7 +20177,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cavour",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20187,7 +20187,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza Cuoco",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20197,7 +20197,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "V.Veneto",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20207,7 +20207,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza D'Ovidio",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20217,7 +20217,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Terminal",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20229,7 +20229,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "SC Campobasso Busso 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20241,7 +20241,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Liceo Scientifico",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20253,7 +20253,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "SC Campobasso Busso 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20265,7 +20265,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Terminal",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20277,7 +20277,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "P.zza D'Ovidio",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20287,7 +20287,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Mascione",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20297,7 +20297,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Colle dell'Orso",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20307,7 +20307,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Stazione",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20317,7 +20317,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "IV Novembre",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20327,7 +20327,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Benedetto Croce",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20337,7 +20337,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "XXIV Maggio",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20347,7 +20347,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "P.zza Pepe",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20357,7 +20357,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "LICEI (Scardocchia)",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20367,7 +20367,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "P.zza Pepe",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20377,7 +20377,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "P.zza Pepe",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20388,7 +20388,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Roma",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20399,7 +20399,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Trivisonno",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20410,7 +20410,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "V.le Manzoni",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20421,7 +20421,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "V. Pirandello",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20432,7 +20432,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "LICEI (Scardocchia)",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20443,7 +20443,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Stazione",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20454,7 +20454,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via IV Novembre",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20465,7 +20465,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via De Gasperi",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20476,7 +20476,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Benedetto Croce",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20487,7 +20487,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "XXIV Maggio",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20498,7 +20498,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "P.zza Pepe",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20509,7 +20509,7 @@
           "source_page": 24
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza Venezia",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20519,7 +20519,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Milano",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20529,7 +20529,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza della Vittoria",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20539,7 +20539,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza Falcone Borsellino",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20549,7 +20549,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Conte Verde",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20559,7 +20559,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza Andrea D'Isernia",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20569,7 +20569,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cese 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20579,7 +20579,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cese 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20589,7 +20589,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cese 3",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20599,7 +20599,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cese 4",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20609,7 +20609,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cese 5",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20619,7 +20619,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cese 6",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20629,7 +20629,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "S.Antonio di Padova",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20639,7 +20639,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Romagnoli",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20649,7 +20649,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cavour",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20659,7 +20659,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Stazione FS",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20669,7 +20669,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Garibaldi",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20679,7 +20679,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Caserma CC",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20689,7 +20689,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "De Gasperi - XXIV Maggio",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20699,7 +20699,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Altobello 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20709,7 +20709,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cacciapesci 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20719,7 +20719,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cacciapesci 3",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20729,7 +20729,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cacciapesci 5",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20739,7 +20739,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cacciapesci 7",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20749,7 +20749,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cacciapesci 9",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20759,7 +20759,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cacciapesci 11",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20769,7 +20769,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Colle delle api 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20779,7 +20779,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Colle delle api 3",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20789,7 +20789,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Molisana 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20799,7 +20799,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Monforte 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20809,7 +20809,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Montini",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20819,7 +20819,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Colle delle api 3",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20829,7 +20829,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Colle delle api 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20839,7 +20839,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "De Gasperi - XXIV Maggio",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20849,7 +20849,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "24 Maggio-Einaudi 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20859,7 +20859,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "24 Maggio Parco 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20869,7 +20869,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "24 Maggio Piave 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20879,7 +20879,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "24 Maggio 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20889,7 +20889,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "S. Francesco",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20899,7 +20899,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Mazzini",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20909,7 +20909,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza Pepe",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20919,7 +20919,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Pietrunto",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20929,7 +20929,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Roma",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20939,7 +20939,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Milano",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20949,7 +20949,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Monforte",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20959,7 +20959,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza Venezia",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20969,7 +20969,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Montini",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20979,7 +20979,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Monforte 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20989,7 +20989,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Molisana 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -20999,7 +20999,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Colle delle api 3",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21009,7 +21009,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Colle delle api 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21019,7 +21019,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cacciapesci 11",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21029,7 +21029,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cacciapesci 9",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21039,7 +21039,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cacciapesci 7",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21049,7 +21049,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cacciapesci 5",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21059,7 +21059,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cacciapesci 3",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21069,7 +21069,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cacciapesci 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21079,7 +21079,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Altobello 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21089,7 +21089,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "De Gasperi - XXIV Maggio",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21099,7 +21099,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Caserma CC",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21109,7 +21109,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza Pepe",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21119,7 +21119,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Roma",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21129,7 +21129,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza della Vittoria",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21139,7 +21139,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza Falcone Borsellino",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21149,7 +21149,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Conte Verde",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21159,7 +21159,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Piazza Andrea D'Isernia",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21169,7 +21169,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cese 1",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21179,7 +21179,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cese 2",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21189,7 +21189,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cese 3",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21199,7 +21199,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cese 4",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21209,7 +21209,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cese 5",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21219,7 +21219,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Cese 6",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21229,7 +21229,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "S.Antonio di Padova",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21239,7 +21239,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Romagnoli",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21249,7 +21249,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Via Vico",
           "city": "Campobasso",
           "service_type": "regular",
@@ -21259,7 +21259,7 @@
           "source_page": 25
         },
         {
-          "line": "Trotta PdE-CB",
+          "line": "Linea 15S - Circolare Limiti Inchiusi dev.",
           "stop": "Terminal",
           "city": "Campobasso",
           "service_type": "regular",
@@ -26242,10 +26242,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Piazza Garibaldi",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "09:40",
             "10:20",
@@ -26266,10 +26266,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Corso Nazionale",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "09:41",
             "10:21",
@@ -26290,10 +26290,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Viale Trieste",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "09:43",
             "10:23",
@@ -26314,10 +26314,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Via Maratona",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "09:45",
             "10:25",
@@ -26338,10 +26338,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Via America",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "09:48",
             "10:28",
@@ -26362,10 +26362,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Via Asia",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "09:51",
             "10:31",
@@ -26386,10 +26386,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Via Sangro",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "09:53",
             "10:33",
@@ -26410,10 +26410,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Via Arno",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "09:55",
             "10:35",
@@ -26434,10 +26434,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Via Tevere",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "09:56",
             "10:36",
@@ -26458,10 +26458,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Via Volturno",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "09:58",
             "10:38",
@@ -26482,10 +26482,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Via Firenze",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "10:00",
             "10:40",
@@ -26506,10 +26506,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Via Torino",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "10:02",
             "10:42",
@@ -26530,10 +26530,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Via Catania",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "10:03",
             "10:43",
@@ -26554,10 +26554,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Via Torino",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "10:04",
             "10:44",
@@ -26578,10 +26578,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Via del Mare",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "10:05",
             "10:45",
@@ -26602,10 +26602,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Eurocasa",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "10:06",
             "13:26",
@@ -26614,10 +26614,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Via del Cimitero",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "10:08",
             "10:48",
@@ -26638,10 +26638,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Via Maratona",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "10:10",
             "10:50",
@@ -26662,10 +26662,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Via Mascilongo",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "10:11",
             "10:51",
@@ -26686,10 +26686,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Viale d'Italia",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "10:12",
             "10:52",
@@ -26710,10 +26710,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Viale Trieste",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "10:14",
             "10:54",
@@ -26734,10 +26734,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Via Duca degli Abruzzi",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "10:16",
             "10:56",
@@ -26758,10 +26758,10 @@
           ]
         },
         {
-          "line": "5 FESTIVO",
+          "line": "5",
           "stop": "Piazza Garibaldi",
           "city": "Termoli",
-          "service_type": "regular",
+          "service_type": "holiday",
           "departures": [
             "10:17",
             "10:57",
