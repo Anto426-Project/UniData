@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-04-02T15:04:32.395521+00:00",
+  "generated_at_utc": "2026-04-02T15:08:50.732992+00:00",
   "timezone": "Europe/Rome",
   "source_count": 3,
   "item_count": 1598,
@@ -25203,7 +25203,7 @@
           ]
         },
         {
-          "line": "3/",
+          "line": "3",
           "stop": "Piazza Garibaldi",
           "city": "Termoli",
           "service_type": "regular",
@@ -25233,7 +25233,7 @@
           ]
         },
         {
-          "line": "3/",
+          "line": "3",
           "stop": "Corso Nazionale",
           "city": "Termoli",
           "service_type": "regular",
@@ -25263,7 +25263,7 @@
           ]
         },
         {
-          "line": "3/",
+          "line": "3",
           "stop": "Via Molinello",
           "city": "Termoli",
           "service_type": "regular",
@@ -25293,7 +25293,7 @@
           ]
         },
         {
-          "line": "3/",
+          "line": "3",
           "stop": "Via Elba",
           "city": "Termoli",
           "service_type": "regular",
@@ -25323,7 +25323,7 @@
           ]
         },
         {
-          "line": "3/",
+          "line": "3",
           "stop": "Viale San Francesco",
           "city": "Termoli",
           "service_type": "regular",
@@ -25353,7 +25353,7 @@
           ]
         },
         {
-          "line": "3/",
+          "line": "3",
           "stop": "Via dei Gigli",
           "city": "Termoli",
           "service_type": "regular",
@@ -25383,7 +25383,7 @@
           ]
         },
         {
-          "line": "3/",
+          "line": "3",
           "stop": "Via delle Orchidee",
           "city": "Termoli",
           "service_type": "regular",
@@ -25413,7 +25413,7 @@
           ]
         },
         {
-          "line": "3/",
+          "line": "3",
           "stop": "Via dei Gigli",
           "city": "Termoli",
           "service_type": "regular",
@@ -25443,7 +25443,7 @@
           ]
         },
         {
-          "line": "3/",
+          "line": "3",
           "stop": "Viale San Francesco",
           "city": "Termoli",
           "service_type": "regular",
@@ -25473,7 +25473,7 @@
           ]
         },
         {
-          "line": "3/",
+          "line": "3",
           "stop": "Via Cardarelli",
           "city": "Termoli",
           "service_type": "regular",
@@ -25503,7 +25503,7 @@
           ]
         },
         {
-          "line": "3/",
+          "line": "3",
           "stop": "Via degli Oleandri",
           "city": "Termoli",
           "service_type": "regular",
@@ -25533,7 +25533,7 @@
           ]
         },
         {
-          "line": "3/",
+          "line": "3",
           "stop": "Via dei Mandorli",
           "city": "Termoli",
           "service_type": "regular",
@@ -25563,7 +25563,7 @@
           ]
         },
         {
-          "line": "3/",
+          "line": "3",
           "stop": "Via Santa Maria degli Angeli",
           "city": "Termoli",
           "service_type": "regular",
@@ -25593,7 +25593,7 @@
           ]
         },
         {
-          "line": "3/",
+          "line": "3",
           "stop": "Via degli Abeti",
           "city": "Termoli",
           "service_type": "regular",
@@ -25623,7 +25623,7 @@
           ]
         },
         {
-          "line": "3/",
+          "line": "3",
           "stop": "Via delle Acacie",
           "city": "Termoli",
           "service_type": "regular",
@@ -25653,7 +25653,7 @@
           ]
         },
         {
-          "line": "3/",
+          "line": "3",
           "stop": "Via Egadi",
           "city": "Termoli",
           "service_type": "regular",
@@ -25683,7 +25683,7 @@
           ]
         },
         {
-          "line": "3/",
+          "line": "3",
           "stop": "Via Corsica",
           "city": "Termoli",
           "service_type": "regular",
@@ -25713,7 +25713,7 @@
           ]
         },
         {
-          "line": "3/",
+          "line": "3",
           "stop": "Via Duca degli Abruzzi",
           "city": "Termoli",
           "service_type": "regular",
@@ -25743,7 +25743,7 @@
           ]
         },
         {
-          "line": "3/",
+          "line": "3",
           "stop": "Corso Fratelli Brigida",
           "city": "Termoli",
           "service_type": "regular",
@@ -25773,7 +25773,7 @@
           ]
         },
         {
-          "line": "3/",
+          "line": "3",
           "stop": "Corso Umberto I",
           "city": "Termoli",
           "service_type": "regular",
@@ -25803,7 +25803,7 @@
           ]
         },
         {
-          "line": "3/",
+          "line": "3",
           "stop": "Piazza Garibaldi",
           "city": "Termoli",
           "service_type": "regular",
