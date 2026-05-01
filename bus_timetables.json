@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-04-25T12:50:44.265933+00:00",
+  "generated_at_utc": "2026-05-01T06:17:59.300456+00:00",
   "timezone": "Europe/Rome",
   "source_count": 3,
   "item_count": 1021,
@@ -12563,7 +12563,13 @@
             "19:16",
             "19:26"
           ],
-          "source_page": 18
+          "source_page": 18,
+          "coordinates": {
+            "lat": 41.577655,
+            "lon": 14.6399827
+          },
+          "geocode_display_name": "Macchie Nord, Contrada Macchie, Centro storico, Conocchiole, Campobasso, Molise, 86100, Italia",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=41.577655,14.6399827"
         },
         {
           "line": "Linea 9 - Circolare Terminal - Ospedale",
@@ -12896,7 +12902,13 @@
             "19:04",
             "19:14"
           ],
-          "source_page": 18
+          "source_page": 18,
+          "coordinates": {
+            "lat": 41.559695,
+            "lon": 14.6552688
+          },
+          "geocode_display_name": "Via Monforte, Centro storico, Campobasso, Molise, 86100, Italia",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=41.559695,14.6552688"
         },
         {
           "line": "Linea 9 - Circolare Terminal - Ospedale",
@@ -13406,7 +13418,13 @@
             "18:13",
             "20:48"
           ],
-          "source_page": 19
+          "source_page": 19,
+          "coordinates": {
+            "lat": 41.5648125,
+            "lon": 14.6741315
+          },
+          "geocode_display_name": "Piave-Sturzo, Via Piave, Cep, Campobasso, Molise, 86100, Italia",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=41.5648125,14.6741315"
         },
         {
           "line": "Linea 11 - Circolare Feudo Linea 11 - Circolare Feudo Dev. Linea 11 - Circolare Feudo Dev.",
@@ -14395,7 +14413,13 @@
             "20:09",
             "20:10"
           ],
-          "source_page": 20
+          "source_page": 20,
+          "coordinates": {
+            "lat": 41.5942049,
+            "lon": 14.6554395
+          },
+          "geocode_display_name": "Serrecchie 1, Contrada Serrecchie, Iontapede, Ripalimosani, Campobasso, Molise, 86025, Italia",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=41.5942049,14.6554395"
         },
         {
           "line": "Linea 12 - Circolare Calvario - Colle Leone Linea 13 - Circolare Coste - Foce",
@@ -14565,7 +14589,13 @@
             "18:40",
             "20:29"
           ],
-          "source_page": 20
+          "source_page": 20,
+          "coordinates": {
+            "lat": 41.559695,
+            "lon": 14.6552688
+          },
+          "geocode_display_name": "Via Monforte, Centro storico, Campobasso, Molise, 86100, Italia",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=41.559695,14.6552688"
         },
         {
           "line": "Linea 12 - Circolare Calvario - Colle Leone Linea 13 - Circolare Coste - Foce",
@@ -15012,7 +15042,13 @@
             "17:04",
             "20:39"
           ],
-          "source_page": 21
+          "source_page": 21,
+          "coordinates": {
+            "lat": 41.559695,
+            "lon": 14.6552688
+          },
+          "geocode_display_name": "Via Monforte, Centro storico, Campobasso, Molise, 86100, Italia",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=41.559695,14.6552688"
         },
         {
           "line": "Linea 14 - Circolare Foce - Collelongo Linea 14D - Circolare Foce - Collelongo Dev. Bivio",
@@ -16746,7 +16782,13 @@
           "departures": [
             "13:49"
           ],
-          "source_page": 23
+          "source_page": 23,
+          "coordinates": {
+            "lat": 41.6338022,
+            "lon": 14.8892663
+          },
+          "geocode_display_name": "Sant'Antonio, Sant'Elia a Pianisi, Campobasso, Molise, 86040, Italia",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=41.6338022,14.8892663"
         },
         {
           "line": "Linea 15S - Circolare Limiti Inchiusi Dev.",
@@ -16972,7 +17014,13 @@
             "13:18",
             "13:57"
           ],
-          "source_page": 24
+          "source_page": 24,
+          "coordinates": {
+            "lat": 41.544577,
+            "lon": 14.6726994
+          },
+          "geocode_display_name": "Viale Alessandro Manzoni, Vazzieri, Campobasso, Molise, 86010, Italia",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=41.544577,14.6726994"
         },
         {
           "line": "Linea 15S - Circolare Limiti Inchiusi Dev.",
@@ -17012,7 +17060,13 @@
           "departures": [
             "07:25"
           ],
-          "source_page": 23
+          "source_page": 23,
+          "coordinates": {
+            "lat": 41.557823,
+            "lon": 14.6802545
+          },
+          "geocode_display_name": "Via Campania, San Giovanni, Campobasso, Molise, 86100, Italia",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=41.557823,14.6802545"
         },
         {
           "line": "Linea 15S - Circolare Limiti Inchiusi Dev.",
@@ -17287,7 +17341,13 @@
             "07:59",
             "08:16"
           ],
-          "source_page": 23
+          "source_page": 23,
+          "coordinates": {
+            "lat": 41.559695,
+            "lon": 14.6552688
+          },
+          "geocode_display_name": "Via Monforte, Centro storico, Campobasso, Molise, 86100, Italia",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=41.559695,14.6552688"
         },
         {
           "line": "Linea 15S - Circolare Limiti Inchiusi Dev.",
@@ -26962,11 +27022,11 @@
     "overrides_path": "data/geocode_overrides.json",
     "max_queries_per_run": 60,
     "queries_made": 60,
-    "resolved_new": 0,
-    "unresolved_new": 60,
+    "resolved_new": 7,
+    "unresolved_new": 53,
     "cache_hits": 209,
     "corrected_stops": 113,
-    "merged_aliases": 0,
+    "merged_aliases": 7,
     "override_entries": 0,
     "override_aliases": 6
   }
